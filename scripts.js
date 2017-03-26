@@ -1,6 +1,6 @@
 function rysujChoinke(x) {
 
-	for (var i = 0; i < x ; i++); {
+	for (var i = 0; i < x ; i++) {
 		var star = '*';  
 
 		for (var n = 0; n < i*2-1; n++) {
