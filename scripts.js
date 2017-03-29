@@ -4,13 +4,13 @@ function rysujChoinke(x) {
 		var star = '*';  
 
 		for (var n = 1; n < i*2-1; n++) {
-			var star = star += '*';
+			 star += '*';
 		}
 
 		console.log(star);
 	}
 }
-
+rysujChoinke(1);
 rysujChoinke(6);
 
 
